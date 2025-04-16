@@ -1,13 +1,4 @@
 # Sliding Mode Observer-Based Control for Takagi-Sugeno Fuzzy Systems
-
-
-## Table of Contents
-- [Project Description](#project-description)
-- [Project Contents](#project-contents)
-- [Contact](#contact)
-
-
-## Project Description
 This repository presents the work of a seminar combining Sliding Mode Observation and Takagi-Sugeno Fuzzy Modeling. The control signal, of type LQR in this case, is based on the results of the state observations on the fuzzy model.
 Fuzzy models are known to form a precise image of NL systems, and SM observers are also known for their robustness. An application is done on the Inverted Double Pendulum attached to a Forward-Moving Cart.
 
